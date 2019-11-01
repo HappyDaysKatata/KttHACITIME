@@ -3,7 +3,7 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_heightQ"match_parent"
         tools:context=".MainActivity">
 
     <Button
@@ -11,8 +11,8 @@
             android:layout_width="329dp"
             android:layout_height="52dp"
             android:text="Button"
-            tools:layout_editor_absoluteX="29dp"
-            tools:layout_editor_absoluteY="137dp" />
+            tools:layout_editor_absoluteX="41dp"
+            tools:layout_editor_absoluteY="139dp" />
 
     <ImageView
             android:id="@+id/imageView2"
